@@ -1,0 +1,30 @@
+#reload countrycolors
+
+ALD = {
+	color = rgb { 229 216 153 }
+	color_ui = rgb { 249 239 187 }
+}
+
+AMZ = {
+	color = rgb { 46 47 56 }
+	color_ui = rgb { 59 59 66 }
+}
+
+FIS = {
+	color = rgb { 198 98 89 }
+	color_ui = rgb {229 132 123 }
+}
+
+NIL = {
+	color = rgb { 130 206 109 }
+	color_ui = rgb { 155, 216, 138 }
+}
+
+SLP = {
+	color = rgb { 64 153 144 }
+	color_ui = rgb { 90 188 178 }
+}
+
+WAK = {
+	color = rgb { 96 120 229 }
+	color_ui = rgb { 126 148 247 }
