@@ -1,0 +1,6 @@
+ALD = "countries/ALD - Alddayie.txt"
+AMZ = "countries/AMZ - Amazighs.txt"
+FIS = "countries/FIS - Fiss.txt"
+NIL = "countries/NIL - Nile Society.txt"
+SLP = "countries/SLP - Sleeping Wave.txt"
+WAK = "countries/WAK - Waking Wave.txt"
