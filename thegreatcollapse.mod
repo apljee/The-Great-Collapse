@@ -2,6 +2,8 @@
 path="mod/thegreatcollapse/"
 replace_path="common/countries"
 replace_path="common/country_tags"
+replace_path="common/defines"
+replace_path="history/countries"
 tags={
 	"Alternative History"
 	"Events"
