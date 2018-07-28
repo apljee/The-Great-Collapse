@@ -12,4 +12,5 @@ https://hoi4.paradoxwikis.com/images/b/bb/State_ID_map.png
 
 Nations that will get focus trees:
 - Near Ellada
-- Possibly Waking Wave?
+- Waking Wave
+- Sleeping Wave
