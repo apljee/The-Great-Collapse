@@ -6,9 +6,11 @@ The Great Collapse is being developed as a mod for HOI4, but was formerly being 
 
 Resource:
 
-STATE ID MAP:
-https://hoi4.paradoxwikis.com/images/b/bb/State_ID_map.png
+STATE ID MAP: https://hoi4.paradoxwikis.com/images/b/bb/State_ID_map.png
 
+FOCUS TREE CREATOR: https://beta.hoi4modding.com/
+
+---
 
 Nations that will get focus trees:
 - Near Ellada
