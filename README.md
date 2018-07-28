@@ -19,7 +19,7 @@ Nations that will get focus trees:
 
 ---
 
-0.01 version Africa ***PROOF OF CONCEPT*** - Changelog:
+0.01 version Wave ***PROOF OF CONCEPT*** - Changelog:
 - Added the following countries into North Africa
   - Sleeping Wave
   - Waking Wave
