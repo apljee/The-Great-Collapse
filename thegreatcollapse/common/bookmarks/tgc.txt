@@ -1,0 +1,109 @@
+bookmarks = {
+	bookmark = {
+		name = "TGC_NAME"
+		desc = "TGC_DESCRIPTION"
+		date = 2666.1.1.12
+		picture = "GFX_select_date_2666"
+		default_country = "WAK"
+	
+		WAK = {
+			history = WAK_TGC_DESC
+			ideology = neutrality
+			ideas={
+				WAK_vaultist
+				WAK_on_the_sea
+				WAK_vault
+			}
+			focuses = {
+				WAK_open_vault
+				WAK_wave_faction
+				WAK_wave_empire
+			}
+		}
+		SLP = {
+			history = SLP_TGC_DESC
+			ideology = neutrality
+			ideas = {
+				SLP_vaultist
+				SLP_vault
+				SLP_earth
+			}
+			focuses = {
+				SLP_expand_east
+				SLP_wave_faction
+				SLP_open_vault
+			}
+		}
+		AMZ = {
+			history = GENERIC_TGC_DESC
+			ideology = neutrality
+			ideas = {
+				placeholder_idea
+				placeholder_idea2
+				placeholder_idea3
+			}
+			focuses = {
+				construction_effort
+				industrial_effort
+				construction_effort_2
+			}
+			
+		}
+		NIL = {
+			history = GENERIC_TGC_DESC
+			ideology = neutrality
+			ideas = {
+				placeholder_idea
+				placeholder_idea2
+				placeholder_idea3
+			}
+			focuses = {
+				construction_effort
+				industrial_effort
+				construction_effort_2
+			}
+			
+		}
+		ALD = {
+			history = GENERIC_TGC_DESC
+			ideology = neutrality
+			ideas = {
+				placeholder_idea
+				placeholder_idea2
+				placeholder_idea3
+			}
+			focuses = {
+				construction_effort
+				industrial_effort
+				construction_effort_2
+			}
+			
+		}
+		FIS = {
+			history = GENERIC_TGC_DESC
+			ideology = neutrality
+			ideas = {
+				placeholder_idea
+				placeholder_idea2
+				placeholder_idea3
+			}
+			focuses = {
+				construction_effort
+				industrial_effort
+				construction_effort_2
+			}
+			
+		}
+
+		"---"={
+			history = "TGC_HISTORY_DESC"
+		}
+
+		
+
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
