@@ -1,5 +1,6 @@
 ﻿name="The Great Collapse"
 path="mod/thegreatcollapse/"
+replace_path="common/bookmarks"
 replace_path="common/countries"
 replace_path="common/country_tags"
 replace_path="common/defines"
