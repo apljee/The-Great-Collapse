@@ -64,5 +64,176 @@ division_template = {
 }
 
 ####### OOB #######
+####### LAND UNITS #######
 
-WIP
+units = {
+	division = {
+		name = "3rd Wavebreakers"
+		location = 11969 # Tunis
+		division_template = "Infantry"
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "2nd Awoken Ones"
+		location = 9994 # Tunis
+		division_template = "Infantry"
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "Bizerte Local Militia"
+		location = 9994 # Bizerte
+		division_template = "Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Tunis Local Militia"
+		location = 11969 # Tunis
+		division_template = "Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.4
+	}
+	division = {
+		name = "1st Waveriders"
+		location = 1149 # Tripoli
+		division_template = "Cavalry"
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "4th Freemen"
+		location = 1149 # Tripoli
+		division = "Infantry"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.8
+	}
+	division = {
+		name = "Tripoli Defensive Garrison"
+		location = 1149 #Tripoli
+		division = "Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "5th Sandwalkers"
+		location = 7194 # STATE Tripolitania
+		division = "Cavalry"
+		start_experience_factor = 0.4
+		start_equipment_factor = 0.6
+	}
+	division = {
+		name = "Tripoli Border Guard"
+		location = 1118 # STATE Triploi
+		division = "Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Tripolitania Border Defense"
+		location = 4176 # STATE Tripolitania
+		division = "Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "Tunis Border Guard"
+		location = 4163 # STATE Tunisia
+		division = "Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.3
+	}
+	division = {
+		name = "6th Wave Guardians"
+		location = 1046 # STATE Tunisia
+		division = "Infantry"
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.7
+	}
+	division = {
+		name = "Vault Heralds"
+		location = 11957 # STATE Gabes
+		division = "Infantry"
+		start_experience_factor = 0.7
+		start_equipment_factor 0.9
+	}
+}
+	####### NAVAL UNITS #######
+	navy = {
+		name = "The Wavewakers" # Only starting fleet of WAK
+		base = 9994 
+		location = 9994 # Bizerte
+
+		ship = { 
+			name = "WWN Tunisia"
+			definition = heavy_cruiser
+			equipment = { 
+				heavy_cruiser_1 = {
+					amount = 1
+					owner = WAK
+					WAK_version_name "Tunisia Class"
+				}
+			}
+		}
+		ship = {
+			name = WWN Bizerte"
+			definition = heavy_cruiser
+			equipment = {
+				heavy_cruiser_1 = {
+					amount = 1
+					owner = WAK
+					WAK_version_name "Tunisia Class"
+				}
+			}
+		}
+		ship = {
+			name = "WWN Tripolitania"
+			definition = destroyer
+			equipment = {
+				destroyer_1 = {
+					amount = 1
+					owner = WAK
+					WAK_version_name = "Bizerte Class"
+				}
+			}
+		}
+		ship = {
+			name = "WWN Tripoli"
+			definition = destroyer
+			equipment = {
+				destroyer_1 = {
+					amount = 1
+					owner = WAK
+					WAK_version_name = "Bizerte Class"
+				}
+			}
+		}
+		ship = {
+			name = "WWN Wavemaker"
+			definition = destroyer
+			equipment = {
+				destroyer_1 = {
+					amount = 1
+					owner = WAK
+					WAK_version_name = "Bizerte Class"
+				}
+			}
+		}
+		ship = {
+			name = "WWN Gabes"
+			definition = destroyer
+			equipment = {
+				destroyer_1 = {
+					amount = 1
+					owner = WAK
+					WAK_version_name = "Bizerte Class"
+				}
+			}
+		}
+}
+
+####### AIR WINGS #######
+
+OOB STILL WIP
+
