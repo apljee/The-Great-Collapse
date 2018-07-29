@@ -16,3 +16,19 @@ Nations that will get focus trees:
 - Near Ellada
 - Waking Wave
 - Sleeping Wave
+
+---
+
+0.01 version Wave ***PROOF OF CONCEPT*** - Changelog:
+- Added the following countries into North Africa
+  - Sleeping Wave
+  - Waking Wave
+  - Fiss
+  - Nile Society
+  - Alddayie
+  - Amazighs
+- Added custom focus trees for the following countries
+  - Sleeping Wave
+  - Waking Wave
+- Changed start date from 1936 to 2666
+- Changed end date from 1949 to 2700
